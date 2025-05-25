@@ -1,0 +1,23 @@
+<resources>
+     <!-- App Basics -->
+     <string name="app_name">Just Java</string>
+     <string name="tagline" translatable="false">Your perfect cup of coffee</string>
+
+     <!-- Form Fields -->
+     <string name="name">Your Name</string>
+     <string name="toppings">Toppings</string>
+     <string name="whipped_cream">Whipped Cream</string>
+     <string name="chocolate">Chocolate</string>
+     <string name="quantity">Quantity</string>
+     <string name="order">ORDER</string>
+     <string name="order_summary" translatable="false">Order Summary</string>
+
+     <!-- Order Summary Strings (Added for email functionality) -->
+     <string name="order_summary_email_subject">JustJava order for %s</string>
+     <string name="order_summary_name">Name: %s</string>
+     <string name="order_summary_whipped_cream">Add whipped cream? %b</string>
+     <string name="order_summary_chocolate">Add chocolate? %b</string>
+     <string name="order_summary_quantity">Quantity: %d</string>
+     <string name="order_summary_price">Total: %s</string>
+     <string name="thank_you">Thank you!</string>
+</resources>
